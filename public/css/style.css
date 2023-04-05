@@ -1,0 +1,18 @@
+*{
+    color: rgb(53, 60, 68);
+    background-color: rgb(0, 0, 0);
+}
+
+body{
+    font-weight: 500;
+    font-family: sans-serif;
+
+}
+
+h1{
+    font-size: 90px;
+}
+
+p{
+    color: rgb(21, 158, 21);
+}
